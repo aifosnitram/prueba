@@ -1,3 +1,7 @@
 prueba1
 
 Esta es una modificación en la rama featuretest en archivo prueba
+
+prueba para generar conflicto
+
+prueba en prueba para conflicto
